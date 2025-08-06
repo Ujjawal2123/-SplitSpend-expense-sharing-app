@@ -74,10 +74,10 @@ Inspired by Splitwise, it improves traditional expense-splitting with:
 
 ## 📦 Installation
 
-git clone https://github.com/Ujjawal2123/SplitSpend.git
-cd SplitSpend
-npm install
-npm run dev
+* git clone https://github.com/Ujjawal2123/SplitSpend.git
+* cd SplitSpend
+* npm install
+* npm run dev
 
 ## 🌟 Future Enhancements
 * Real UPI integration for instant settlement
