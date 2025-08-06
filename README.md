@@ -74,37 +74,31 @@ Inspired by Splitwise, it improves traditional expense-splitting with:
 
 ## 📦 Installation
 
-```bash
 git clone https://github.com/Ujjawal2123/SplitSpend.git
 cd SplitSpend
 npm install
 npm run dev
 
-SplitSpend/
-│
-├── client/         # React frontend
-├── server/         # Node.js backend
-├── assets/         # Images, screenshots
-├── .env.example    # Example environment config
-└── README.md
+## 🌟 Future Enhancements
+* Real UPI integration for instant settlement
+* Recurring expense detection
+* Native mobile app (React Native or Flutter)
+* Group budgets and limits
 
-🌟 Future Enhancements
- Real UPI integration for instant settlement
+## 🤝 Contributing
+Contributions are welcome! If you have a feature idea or a bug fix, please follow these steps:
+1.  Fork the repository.
+2.  Create a new branch: `git checkout -b feature/your-feature-name`.
+3.  Commit your changes: `git commit -m 'feat: Add a new feature'`.
+4.  Push to the branch: `git push origin feature/your-feature-name`.
+5.  Open a pull request.
+Make sure to follow the coding style and comment your code.
 
- Recurring expense detection
+## 👨‍💻 Author
+**Ujjawal Kumar Singh**
+* **📍 Location:** Jharkhand, India
+* **📧 Email:** ujjawal03.singh@gmail.com
+* **🔗 Social:** [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-profile)
 
- Native mobile app (React Native or Flutter)
-
- Group budgets and limits
-
-🤝 Contributing
-Contributions are welcome! Fork the repo, make your changes, and open a pull request. Make sure to follow the coding style and comment your code.
-
-👨‍💻 Author
-Ujjawal Kumar Singh
-📍 Jharkhand, India
-📧 ujjawal03.singh@gmail.com
-🔗 LinkedIn | GitHub
-
-📄 License
-This project is licensed under the MIT License
+## 📄 License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
